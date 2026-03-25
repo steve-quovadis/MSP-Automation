@@ -1,4 +1,3 @@
-cd C:\Program Files\NinjaRemote\git
 Import-Module posh-git
 Install-PackageProvider -Name NuGet -Force
 Install-Module -Name Microsoft.WinGet.Client -Force -Repository PSGallery
